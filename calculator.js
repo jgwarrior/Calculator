@@ -31,3 +31,10 @@ function e() {
 		d("Error");
 	}
 }
+
+
+//Christmas
+function christmas() {
+	
+	
+}
