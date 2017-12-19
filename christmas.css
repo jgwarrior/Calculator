@@ -4,7 +4,7 @@
 /* Calculator Box*/
 
 .box {
-	background-color:#0915b2;
+	background-color:#FF0C0C;
 	height: 350px;
 	width: 250px;
 	border-radius: 10px;
@@ -32,7 +32,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #65FF19;
+	background-color: white;
 	font-size: 21px;
 	text-align: right;
 }
@@ -55,22 +55,22 @@
 }
 
 .button.function {
-	color: white;
-	background-color: #FF4C00;
+	color: red;
+	background-color: grey;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 
 .button.operator {
-	color: White;
-	background-color: #B2A6A1;
+	color: Red;
+	background-color: black;
 	border-bottom: black 2px solid;
 	border-top: 2px #6F6F6F;
 }
 
 .button.number {
-	color: white;
-	background-color: Grey;
+	color: red;
+	background-color: #00BC12;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f;
 }
@@ -95,7 +95,7 @@
 /* Christmas Button */
 
 .christmas {
-	background-image: url("christmastree.jpg");
+	background-image: url("home-button.jpg");
 
 background-size: cover;
 }
